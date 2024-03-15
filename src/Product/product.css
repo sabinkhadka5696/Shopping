@@ -1,0 +1,17 @@
+
+.wear{
+    position: relative;
+    right: 95px;
+}
+.productwear{
+    display: grid;
+    grid-template-rows: auto auto auto  ;
+    grid-template-columns: auto auto auto ;
+    gap: 10px;
+
+}
+.pagi{
+    display: flex;
+    justify-content: center;
+padding-top: 50px;
+}

@@ -1,0 +1,78 @@
+
+
+
+ .img4-con{
+    position: relative;
+    bottom: 200px;
+    left: 30px;
+    font-size: 30px;
+    color: white;
+}
+.grid1{
+    position: relative;
+    left: 405px;
+    bottom: 610px;
+}
+.img7{
+    padding-right: 500px;
+}
+.img6{
+    position: relative;
+    left: 830px;
+    bottom: 420px;
+}
+.btn-img4{
+    position: relative;
+    bottom:190px;
+    left: 100px;
+    cursor: pointer;    
+}
+.img7-con{
+    position: relative;
+    bottom: 140px;
+    left: 50px;
+    font-size: 40px;
+    color: red;
+}
+.btn-img7{
+    position: relative;
+    bottom:140px;
+    left: 100px;
+    cursor: pointer; 
+}
+.img6-con{
+    position: relative;
+    bottom: 630px;
+    left: 880px;
+    color: white;
+    font-size: 32px;
+}
+.btn-img6{
+    position: relative;
+    bottom: 630px;
+    left: 950px;
+}
+.img8-con{
+    position: relative;
+    bottom: 150px;
+    left: 100px;
+    font-size: 40px;
+    color: red;
+}
+.btn-img8{
+    position: relative;
+    bottom: 150px;
+    left: 140px;
+}
+.bnm >.btn-img4:hover{
+    background-color: rgb(238, 39, 8);
+}
+.bnm >.btn-img7:hover{
+    background-color: rgb(238, 39, 8);
+}
+.bnm >.btn-img6:hover{
+    background-color: rgb(238, 39, 8);
+}
+.grid1 >.btn-img8:hover{
+    background-color: rgb(238, 39, 8);
+}

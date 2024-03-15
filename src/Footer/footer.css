@@ -1,0 +1,12 @@
+
+.grid{
+background-color: black;
+position: relative;
+}
+
+.apple{
+    color: white;
+}
+.apple:hover{
+    color: red;
+}

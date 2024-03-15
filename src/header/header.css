@@ -1,0 +1,89 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.top{
+    background-color: rgb(255, 55, 0);
+    color: #ffffff;
+    font-size: 14px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.nav-second{
+    position: relative;
+    right: 40px;
+    font-size: 14px;
+    font-family: 'Times New Roman', Times, serif;
+    top: -25px;
+}
+
+.head{
+    position: relative;
+    top: -23px;
+    right: 10px;
+}
+
+.mobile, .contact{
+  padding-top: 3px;
+  padding-right: 8px;
+  color: red;
+  margin-left: 12px;
+}
+
+.avb{
+    color:  rgb(255, 55, 0);
+   padding-left: 5px;
+}
+.android{
+    color:  rgb(255, 55, 0);
+    padding-left: 5px;
+
+}
+.windows{
+    color:  rgb(255, 55, 0);
+    padding-left: 5px;
+    margin-left: 10px;
+
+}
+.avb:hover{
+    color: black;
+}
+.android:hover{
+    color: black;
+}
+.windows:hover{
+    color: black;
+}
+.red{
+    position: relative;
+    color: red;
+   left: 380px;
+bottom: 20px;
+}
+
+.nav-third{
+    position: relative;
+    bottom: 80px;
+}
+.login{
+    font-size: 12px;
+    position: relative;
+    left: 30px;
+}
+
+.navdrop{
+    min-width:600px ;
+    max-width: 800px;
+    margin-left: 10px;
+}
+.column > a{
+    display: block;
+} 
+
+.column > a:hover{
+    background-color: rgba(128, 128, 128, 0.579);
+}
+
+
+
+

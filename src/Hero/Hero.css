@@ -1,0 +1,29 @@
+*{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.pic{
+    width: 100%;
+    object-fit: cover;
+    
+}
+.caro{
+position: relative;
+bottom: 78px;
+}
+.caro-body{
+    position: absolute;
+    top: 200px;
+padding-right: 600px;
+}
+.first{
+    color: #ffa500;
+    font-size: 40px;
+}
+.second{
+    color: #008000;
+    font-size: 55px;
+}
+.third{
+    color: #800080;
+    font-size: 40px;
+}

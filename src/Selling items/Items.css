@@ -1,0 +1,19 @@
+
+.items{
+    background-color: rgba(128, 128, 128, 0.596);
+    position: relative;
+    bottom: 600px;
+}
+.items-con{
+    padding-left: 450px;
+    color: red;
+}
+.items-ig{
+    height: 100%;
+    width: 70%;
+   padding-left: 80px;
+}
+
+.card{
+    width: 80%;
+}
